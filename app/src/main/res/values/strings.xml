@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Northern VIllage Water and Sewage App</string>
+    <string name="user_name">User Name</string>
+    <string name="pin">PIN</string>
+    <string name="enter">Enter</string>
+    <string name="analytics">Analytics</string>
+    <string name="disable_resident">Disable Resident</string>
+    <string name="get_reports">Get Reports</string>
+    <string name="add_service">Add Service</string>
+    <string name="get_delivery">Get Delivery</string>
+
+    <string-array name="demandTypes">
+        <item>Water</item>
+        <item>Sewage</item>
+        <item>Water and Sewage</item>
+    </string-array>
+    <string-array name="timeEstimate">
+        <item>None</item>
+        <item>On the way</item>
+        <item>Before Break</item>
+        <item>Today</item>
+        <item>Tomorrow</item>
+    </string-array>
+    <string-array name="times">
+        <item>Hours</item>
+        <item>Days</item>
+        <item>Weeks</item>
+        <item>Months</item>
+    </string-array>
+    <string-array name="complaintTypes">
+        <item>Complaint</item>
+        <item>Broken Lights</item>
+        <item>Malfunctioning Lights</item>
+        <item>No need for call</item>
+    </string-array>
+    <string-array name="companies">
+        <item>KHMB</item>
+        <item>KSB</item>
+        <item>KRG</item>
+        <item>Makivik</item>
+    </string-array>
+</resources>
